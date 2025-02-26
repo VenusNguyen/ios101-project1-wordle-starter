@@ -4,7 +4,7 @@ This is the starter project for iOS 101 Project 1 - Wordle Pt. 1
 
 Submitted by: Venus Nguyen
 
-Time spent: 2 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
