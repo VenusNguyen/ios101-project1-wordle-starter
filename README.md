@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It took me a while to set up and run app on my phone instead of the simulator.
 
 ## License
 
